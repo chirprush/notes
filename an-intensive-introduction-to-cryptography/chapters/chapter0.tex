@@ -1,0 +1,72 @@
+\section{Mathematical Background}
+
+\setcounter{exercisenum}{4}
+
+\begin{exercisenum}[Random Hash Function]
+    Let \( H : \{1, \ldots, n\} \to \{1, \ldots, m\} \) represent a hash function, with each entry for the function chosen randomly (this is equivalent to uniformly choosing over all \( m^n \) functions). We say that there is a \textit{collision} if for some \( i < j \), \( H(i) = H(j) \). Let \( X_{i,j} := \mathbf{1}_{H(i) = H(j)} \).
+    \begin{enumerate}
+        \item For every \( i < j \), compute \( \E [X_{i,j}] \).
+        \item Let \( Y := \sum_{i<j} X_{i,j} \), representing the total collisions. Compute \( \E [Y] \).
+        \item Prove that if \( m > 1000 \cdot n^2 \), the probability that \( H \) is injective is at least \( 0.9 \).
+        \item Prove that if \( m < n^2 / 1000 \), the probability that \( H \) is injective is at most \( 0.1 \).
+    \end{enumerate}
+\end{exercisenum}
+
+\begin{solution}
+    We shall proceed with each part as follows:
+    \begin{enumerate}
+        \item By symmetry, it stands that each \( \E [X_{i,j}] \) is the same. We see that \( \E [X_{i,j}] = m \cdot 1/m^2 = 1/m \).
+        \item We know that
+            \[
+                \E [Y] = \sum_{i = 2}^{n} \sum_{j = 1}^{i - 1} \frac{1}{m}
+            ,\]
+            which tells us that \( \E [Y] = n(n-1)/(2m) \).
+        \item The probability that \( H \) is injective is given by
+            \[
+                \Pr (H \text{ is injective}) = \frac{\binom{m}{n} n!}{m^n} = \prod_{k = 0}^{n - 1} \left( 1 - \frac{k}{m} \right)
+            .\]
+            This function is strictly increasing with respect to \( m \) so that if \( m > 1000n^2 \),
+            \[
+                \prod_{k = 0}^{n - 1} \left( 1 - \frac{k}{m} \right) > \prod_{k = 0}^{n - 1} \left( 1 - \frac{k}{1000n^2} \right) > \prod_{k = 0}^{n - 1} \left( 1 - \frac{1}{1000n} \right) = \left( 1 - \frac{1}{1000n} \right)^{n}
+            .\]
+            By Bernoulli's inequality, we have that
+            \[
+                \left( 1 - \frac{1}{1000n} \right)^{n} \ge 1 - \frac{1}{1000} = 0.999 > 0.9
+            ,\]
+            which shows the desired quality.
+        \item Observe that, in order for \( H \) to be injective, we must have \( n \le m < n^2/1000 \), which tells us that at the very least \( n > 1000 \). By AM-GM, we have that
+            \begin{align*}
+                \Pr (H \text{ is injective}) &= \prod_{k = 0}^{n - 1} \left( 1 - \frac{k}{m} \right) \le \left( \frac{1}{n} \sum_{k = 0}^{n - 1} \left( 1 - \frac{k}{m} \right) \right)^n \\
+                &= \left( 1 - \frac{n - 1}{2m} \right)^n \le \left( \frac{1}{2} - \frac{1}{2n} \right)^n \\
+                &= \frac{1}{2^{n}} \left( 1 - \frac{1}{n} \right)^{n} \\
+                &\le \frac{1}{2^{1000}} < 0.1
+            .\end{align*}
+    \end{enumerate}
+\end{solution}
+
+\setcounter{exercisenum}{11}
+
+\begin{exercisenum}
+    The \textit{Shannon entropy} of a distribution \( \mu \) formed over a finite set \( S \) is given by
+    \[
+        H(\mu) := \sum_{x \in S} \mu (x) \log_2(1 / \mu(x))
+    .\]
+    We wish to prove the intution that, in the amortized sense, \( H(\mu) \) bits are needed to encode members of the distribution (not quite sure what this is referring to exactly).
+    \begin{enumerate}
+        \item Prove that for every injective function \( F : S^* \to \{0, 1 \}^* \),
+            \[
+                \E_{x \sim \mu} |F(x)| = \sum_{x \in S} |F(x)| \, \mu(x) \ge H(\mu)
+            .\]
+        \item Prove that for every \( \varepsilon \), there is some \( n \) and an injective function \( F : S^n \to \{0, 1\}^* \) such that (note: I'm not sure this is what the problem is exactly asking. Perhaps I'm being a bit smooth brain, but the notation isn't exactly clear to me)
+            \[
+                \E_{\vec{x} \sim \mu^n} |F(\vec{x})| = \sum_{\vec{x} \in S^n} |F(\vec{x})| \, \mu(x_1) \mu(x_2) \cdots \mu(x_n) \le n(k + \varepsilon)
+            .\]
+    \end{enumerate}
+\end{exercisenum}
+
+\begin{solution}
+    As per the \href{https://math.stackexchange.com/questions/4946091/doubts-on-an-intensive-introduction-to-cryptography-exercise-about-shannons-e/4946095#4946095}{MSE question} I asked on this, it's likely that there is a typo in the original source for the question, which would have been very nice to know from the start, but oh well.
+    \begin{enumerate}
+        \item 
+    \end{enumerate}
+\end{solution}
