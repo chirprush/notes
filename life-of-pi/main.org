@@ -1,0 +1,10 @@
+#+TITLE: Notes: The Life of Pi
+#+AUTHOR: Rushil Surti
+#+LATEX: \newpage
+
+#+INCLUDE: "./sections/AuthorsNote.org"
+#+INCLUDE: "./sections/Section1.org"
+#+INCLUDE: "./sections/Section2.org"
+#+INCLUDE: "./sections/Section3.org"
+
+#+INCLUDE: "./sections/Analysis.org"

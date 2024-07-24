@@ -1,0 +1,14 @@
+* Chapter 5
+  Due to the pronunciation of his name, Piscine met much teasing and bullying beacuse of its similarity to the word "pissing." Kids and teachers alike would mispronounce his name, by accident or by purpose.
+
+  When Piscine arrived at a new school called Petit Séminaire, an English-medium secondary school in which Ravi was already popular, he had a plan. When teachers called on him, Piscine went to the chalkboard and wrote:
+#+begin_quote
+My name is
+
+Piscine Molitor Patel,
+
+known to all as
+
+Pi Patel
+#+end_quote
+He then wrote the constant $\pi = 3.14$ and drew a circle with its diameter line. Doing this for every class with different teachers, he managed to avoid any teasing and made the trend catch on. Other students used greek letters such as $\omega$, $\upsilon$, $\gamma$, $\lambda$, and $\delta$. The teasing stopped, and, as he referred to it, Pi found refuge.

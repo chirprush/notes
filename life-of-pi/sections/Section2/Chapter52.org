@@ -1,0 +1,44 @@
+* Chapter 52
+  Pi lists out all of the supplies found in the locker.
+  
+  - 192 tablets of seasickness medicine
+  - 124 cans of water
+  - 32 plastic vomit bags
+  - 31 cartons of food rations
+  - 16 wool blankets
+  - 12 solar stills (used for making fresh water out of salt water via evaporation)
+  - 10 life jackets
+  - 6 morphine syringes (pain-killers?)
+  - 6 hand flares
+  - 5 oars
+  - 4 parachute flares
+  - 3 large plastic bags
+  - 3 can openers
+  - 3 glass beakers
+  - 2 boxes of matches
+  - 2 smoke signals
+  - 2 plastic buckets
+  - 2 plastic bailing cups (used for removing water from a boat?)
+  - 2 airtight plastic containers
+  - 2 sponges
+  - 2 long, buoyant ropes
+  - 2 short, non-buoyant ropes
+  - 2 fishing kits
+  - 2 gaffs (iron hooks for fishing)
+  - 2 anchors
+  - 2 hatchets
+  - 2 rain catchers
+  - 2 pens
+  - 1 cargo net
+  - 1 lifebuoy
+  - 1 hunting knife
+  - 1 sewing kit
+  - 1 first-aid kit
+  - 1 signalling mirror
+  - 1 pack of cigarettes
+  - 1 bar of chocolate
+  - 1 survival manual
+  - 1 compass
+  - 1 notebook
+
+  Pi eats a quarter of the chocolate bar, examines the rain catchers, and goes to sleep.
