@@ -1,0 +1,45 @@
+\section{Inference for Quantitative Data: Slopes}
+
+When doing statistics to see relationships between data, we often take samples
+and then plot them. Sometimes, we may suspect a linear relationship, allowing
+us to calculate a regression line. Because these are samples though, we can
+only estimate the true population regression line. This is a very common
+pattern in statistics, and like always we shall now utilize our tools to
+construct confidence intervals and hypotheses to make inferences about these
+regression line values (usually the slope) just as one would do so for
+proportions or means.
+
+The conditions for inference are as follows:
+\begin{itemize}
+    \item \textbf{Linear}: The true relation between \( y \) and \( x \) for the population is
+        linear.
+    \item \textbf{Independent}: A common one; we must be confident that our
+        samples are independent.
+    \item \textbf{Normal}: For every \( x \), the corresponding distribution of
+        \( y \) is normal.
+    \item \textbf{Equal Variance}: For every \( x \), the corresponding
+        distributions of \( y \) all have the exact same variance.
+    \item \textbf{Random}: The samples must be random.
+\end{itemize}
+In all likelihood we will not have to prove that a regression fulfills all of
+these, as some are rather tricky to prove.
+
+The confidence interval for linear regressions is
+\[
+    b \pm t^* \cdot \text{SE}
+,\]
+where \( b \) is the sample slope obtained, and \( \text{SE} \) denotes the
+standard error coefficient of this slope (usually calculated by the magic black
+box program :pensive: I hate not knowing how these are derived). The degrees of
+freedom we shall use for \( t^* \) are two less than the number of data points
+in the sample (once again I hate not knowing how this is derived).
+
+The \( t \) value for a linear regression line is
+\[
+    t = \frac{b - \beta}{\text{SE}}
+,\]
+where \( \beta \) represents the true population slope (which we usually assume
+to be \( 0 \) as our null hypothesis).
+
+Note that the for the computer output of a least-squares regression, the
+calculated \( p \)-value will be two-sided.

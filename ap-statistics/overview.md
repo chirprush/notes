@@ -1,0 +1,89 @@
+- Exploring One-Variable Data
+    - [X] Introducing Statistics: What Can We Learn from Data?
+    - [X] The Language of Variation: Variables
+    - [X] Representing a Categorical Variable with Tables
+    - [X] Representing a Categorical Variable with Graphs
+    - [X] Representing a Quantitive Variable with Graphs
+    - [X] Describing the Distribution of a Quantitative Variable
+    - [X] Summary Statistics for a Quantitative Variable
+    - [X] Graphical Representations of Summary Statistics
+    - [X] Comparing Distributions of a Quantitative Variable
+    - [X] The Normal Distribution
+- Exploring Two-Variable Data
+    - [X] Introducing Statistics: Are Variables Related?
+    - [X] Representing Two Categorical Variables
+    - [X] Statistics for Two Categorical Variables
+    - [X] Representing the Relationship Between Two Quantitative Variables
+    - [X] Correlation
+    - [X] Linear Regression Models
+    - [X] Residuals
+    - [X] Least Squares Regression
+    - [X] Analyzing Departures from Linearity
+- Collecting Data
+    - [X] Introducing Statistics: Do the Data We Collected Tell the Truth?
+    - [X] Introduction to Planning a Study
+    - [X] Random Sampling and Data Collection
+    - [X] Potential Problems with Sampling
+    - [X] Introduction to Experimental Design
+    - [X] Selecting an Experimental Design
+    - [X] Inference Experiments
+- Probability, Random Variables, and Probability Distributions
+    - [X] Introducing Statistics: Random and Non-Random Patterns?
+    - [X] Estimating Probabilities Using Simulation
+    - [X] Introduction to Probability
+    - [X] Mutually Exclusive Events
+    - [X] Conditional Probability
+    - [X] Independent Events and Unions of Events
+    - [X] Introduction to Random Variables and Probability Distributions
+    - [X] Mean and Standard Deviation of Random Variables
+    - [X] Combining Random Variables
+    - [X] Introduction to the Binomial Distribution
+    - [X] Parameters for a Binomial Distribution
+    - [X] The Geometric Distribution
+- Sampling Distributions
+    - [X] Introducing Statistics: Why Is My Sample Not Like Yours?
+    - [X] The Normal Distribution, Revisited
+    - [X] The Central Limit Theorem
+    - [X] Biased and Unbiased Point Estimates
+    - [X] Sampling Distributions for Sample Proportions
+    - [X] Sampling Distributions for Differences in Sample Proportions
+    - [X] Sampling Distributions for Sample Means
+    - [X] Sampling Distributions for Differences in Sample Means
+- Inference for Categorical Data: Proportions
+    - [X] Introducing Statistics: Why Be Normal?
+    - [X] Constructing a Confidence Interval for a Population Proportion
+    - [X] Justifying a Claim Based on a Confidence Interval for a Population Proportion
+    - [X] Setting Up a Test for a Population Proportion
+    - [X] Interpreting \( p \)-Values
+    - [X] Concluding a Test for a Population Proportion
+    - [X] Potential Errors When Performing Tests
+    - [X] Confidence Intervals for the Difference of Two Proportions
+    - [X] Justifying a Claim Based on a Confidence Interval for a Difference of Population Proportions
+    - [X] Setting Up a Test for the Difference of Two Population Proportions
+    - [X] Carrying Out a Test for the Difference of Two Population Proportions
+- Inference for Quantitative Data: Means
+    - [X] Introducing Statistics: Should I Worry About Error?
+    - [X] Constructing a Confidence Interval for a Population Mean
+    - [X] Justifying a Claim About a Population Mean Based on a Confidence Interval
+    - [X] Setting Up a Test for a Population Mean
+    - [X] Carrying Out a Test for a Population Mean
+    - [X] Confidence Intervals for the Difference of Two Means
+    - [X] Justifying a Claim About the Difference of Two Means Based on a Confidence Interval
+    - [X] Setting Up a Test for the Difference of Two Population Means
+    - [X] Carrying Out a Test for the Difference of Two Population Means
+    - [X] Skill Focus: Seleting, Implementing, and Communicating Inference Procedures
+- Inference for Categorical Data: Chi-Square
+    - [X] Introducing Statistics: Are My Results Unexpected?
+    - [X] Setting Up a Chi-Square Goodness of Fit Test
+    - [X] Carrying Out a Chi-Square Test for Goodness of Fit
+    - [X] Expected Counts in Two-Way Tables
+    - [X] Setting Up a Chi-Square Test for Homogeneity or Independence
+    - [X] Carrying Out a Chi-Square Test for Homogeneity or Independence
+    - [X] Skill Focus: Selecting an Appropriate Inference Procedure for Categorical Data
+- Inference for Quantitative Data: Slopes
+    - [X] Introducing Statistics: Do Those Points Align?
+    - [X] Confidence Intervals for the Slope of a Regression Model
+    - [X] Justifying a Claim About the Slope of a Regression Model Based on a Confidence Interval
+    - [X] Setting Up a Test for the Slope of a Regression Model
+    - [X] Carring Out a Test for the Slope of a Regression Model
+    - [X] Skills Focus: Selecting an Appropriate Inference Procedure

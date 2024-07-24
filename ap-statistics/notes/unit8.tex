@@ -1,0 +1,46 @@
+\section{Inference for Categorical Data: Chi-Square}
+
+Oftentimes we use the \( \chi^2 \) test for comparing statistics of categorical
+variables. An example of this could be the number of correct choices of each
+letter type on an exam.
+
+Suppose we take a sample of data which gets distributed into a few
+categories. We can denote the expected value for each of these categories to be
+\( E_1,E_2,\ldots,E_n \) and the sampled value for each of these categories to
+be \( S_1,S_2,\ldots,S_n \). Then we have that
+\[
+    \chi^2 = \sum_{i = 1}^n \frac{\left( S_i - E_i \right)^2}{E_i}
+.\]
+We can then put this value into a \( \chi^2 \)-distribution along with the
+degrees of freedom (one less than the number of categories, so in this case \(
+n - 1 \)) to find the probability of a result being this extreme, allowing us
+to get a \( p \)-value that will either give us evidence to reject the null
+hypothesis or keep it.
+
+One condition for a \( \chi^2 \) test, called the large counts rule, says that
+all of the \textbf{expected} (not observed) counts for each category should be
+greater than or equal to \( 5 \).
+
+We can also use a \( \chi^2 \) test to test for homogeneity, or the similarity
+of two distributions. In this case, we can sample two or more populations and
+set up a table as follows. In this case, \( A \) and \( B \) represent the different samples, and \( C \) and \( D \) the different categories.
+
+\begin{center}
+    \begin{tabular}{c|c|c|c}
+        & \( A \) & \( B \) & Total \\
+        \hline \( C \) & \( a_c \) & \( b_c \) & \( c \) \\
+        \hline \( D \) & \( a_d \) & \( b_d \) &  \( d \) \\
+        \hline Total & \( a \) & \( b \) & \( n \)
+    \end{tabular}
+\end{center}
+
+By assuming there is no difference between the two \( A \) and \( B \) (our
+null hypothesis), we can find the expected values for the table values by
+looking at the right totals and dividing by the entire total. Also note that
+our degrees of freedom will be \( \left( n - 1 \right) \left( m - 1 \right) \),
+where \( n,m \) represent the number of populations and the number of
+categories.
+
+We can also do this for only a single population but picking multiple
+categories for rows and columns. This is usually done in
+association/independence tests.

@@ -1,0 +1,10 @@
+* Big Eras
+#+INCLUDE: "./eras/Era1.org"
+#+INCLUDE: "./eras/Era2.org"
+#+INCLUDE: "./eras/Era3.org"
+#+INCLUDE: "./eras/Era4.org"
+#+INCLUDE: "./eras/Era5.org"
+#+INCLUDE: "./eras/Era6.org"
+#+INCLUDE: "./eras/Era7.org"
+#+INCLUDE: "./eras/Era8.org"
+#+INCLUDE: "./eras/Era9.org"

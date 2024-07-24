@@ -1,0 +1,33 @@
+\section{Sampling Distributions}
+
+\begin{blackbox}
+    \begin{definition}
+        A \textbf{sampling distribution} is a distribution of all possible
+        values of a statistic found by taking random samples of a population.
+    \end{definition}
+\end{blackbox}
+
+\begin{blackbox}
+    \begin{definition}
+        The \textbf{central limit theorem} states that the sampling
+        distribution of any data set with a well defined mean and variance
+        approaches a normal distribution.
+    \end{definition}
+\end{blackbox}
+
+I really should check out the 3b1b video on the central limit theorem.
+
+Given some proportion \( p \) and sample size \( n \), the sampling
+distribution of sample proportions has a respective mean and variance of
+\begin{align*}
+    \mu_X &= p & \variance{X} &= \frac{p \left( 1 - p \right)}{n}
+.\end{align*}
+A general rule of thumb tells us that this distribution will be roughly normal
+if both \( np \ge 10 \) and \( n \left( 1 - p \right) \ge 10 \).
+
+The variance of the sampling distribution decreases as the sample size increases according to the following formula:
+\[
+    \variance{\overline{X}} = \frac{\variance{X}}{n}
+,\]
+where \( \overline{X} \) represents the sampling distribution of \( X \) and \(
+n \) represents the number of samples.

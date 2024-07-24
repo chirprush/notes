@@ -1,0 +1,93 @@
+\section{Exploring Two-Variable Data}
+
+Often we graph two-variable (quantitative) data with scatter plots.
+
+Generally when classifying relationships between two variables, give them three
+attributes:
+\begin{enumerate}
+    \item \textbf{Linearity/Form}: Does the data follow a linear or close to linear relationship? Is it non-linear? Is there no relationship?
+    \item \textbf{Strength}: How closely does it follow the shape described?
+    \item \textbf{Direction}: Is it going in the positive or negative direction?
+    \item \textbf{Outliers}: Are there any potential outliers in the data?
+\end{enumerate}
+
+With two-variable data and scatter plots, we can also identify clusters, or
+separated groups, of data.
+
+One way to quantify how "linear" a relationship is is to calculate the
+correlation coefficient.
+
+\begin{blackbox}
+    \begin{definition}
+        The \textbf{correlation coefficient}, denoted \( r \), is a value in the interval \( \left[-1, 1 \right] \) calculated as follows:
+        \[
+            r = \frac{1}{n - 1} \sum_{i = 1}^{n} z_{x_i} z_{y_i}
+        ,\]
+        where \( n \) denotes the number of samples and \( z_{x_i} \) and \(
+        z_{y_i} \) denote the \( z \)-scores of each \( x \) and \( y \) value
+        in the sample data set.
+    \end{definition}
+\end{blackbox}
+
+A correlation coefficient close to \( -1 \) or \( 1 \) tells us that there is a
+very strong negative or positive linear relationship respectively; whereas, if
+the correlation coefficient is close to \( 0 \), there isn't really a linear
+relationship. Sometimes we will square this \( r \) value if all we're
+concerned about is the linearity.
+
+Linear regression is concept of trying to best fit a line to a set of data. We
+try to minimize the squared-distance from each point to the line. A linear regression line for a data set \( y \) is usually denoted by \( \hat{y} \).
+
+\begin{blackbox}
+    \begin{definition}
+        The \textbf{residual} is the difference between a data point and the
+        point with the same \( x \) lying on the linear regression line.
+    \end{definition}
+\end{blackbox}
+
+Sometimes we may also separately graph residuals on a residual plot to see how
+good of a fit our line is.
+
+In order to actually calculate our regression line, we can do a little but of
+math. The slope of the line will be \( r \cdot s_y / s_x \), where \( s \)
+denotes the sample standard deviation of the corresponding sets of data.
+Intuitively, this slope makes sense, as it represents an average standard
+deviation of \( y \) over that of \( x \) and then adjusted by how close the
+data fits to a line by \( r \). We also know that the line will pass through
+the point \( \left( \overline{x}, \overline{y} \right) \), or the mean point,
+so we can now use point-slope formula to solve for the line. 
+
+\begin{blackbox}
+    \begin{definition}
+        The equation for a \textbf{linear regression line} for a set of bivariate data is
+        \[
+            \hat{y} = \overline{y} + r \cdot \frac{s_y}{s_x} \left( x - \overline{x} \right)
+        .\]
+    \end{definition}
+\end{blackbox}
+
+\begin{blackbox}
+    \begin{definition}
+        The value of \( r^2 \), called the \textbf{coefficient of
+        determination}, tells us how much of the variation in \( y \) is
+        described by the variation in \( x \), and it also gives us a measure
+        of how good of a line of fit we have. It is calculated as
+        \[
+            r^2 = 1 - \frac{SE_{\hat{y}}}{SE_{\overline{y}}}
+        ,\]
+        where \( SE_{\hat{y}} \) represents the sum of the squared error of all
+        points from the regression line (in other words the sum of the squares
+        of all residuals), and \( SE_{\overline{y}} \) represents the sum of
+        the squared error of all points from the mean.
+    \end{definition}
+\end{blackbox}
+
+\begin{blackbox}
+    The \textbf{standard deviation of residuals} or \textbf{root mean square deviation (RMSD)} is found with the following formula:
+    \[
+        RMSD = \sqrt{\frac{\sum_{i = 1}^n \left( y_i - \hat{y} \right)^2}{n - 2}}
+    .\]
+\end{blackbox}
+
+This gives the average residual, or average error between the regression line
+prediction and an actual value.

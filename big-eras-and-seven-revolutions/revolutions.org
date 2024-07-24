@@ -1,0 +1,14 @@
+* The 7 Revolutions
+#+INCLUDE: "./revolutions/Revolution1.org"
+#+INCLUDE: "./revolutions/Revolution2.org"
+#+INCLUDE: "./revolutions/Revolution3.org"
+#+INCLUDE: "./revolutions/Revolution4.org"
+#+INCLUDE: "./revolutions/Revolution5.org"
+#+INCLUDE: "./revolutions/Revolution6.org"
+#+INCLUDE: "./revolutions/Revolution7.org"
+
+
+
+
+
+

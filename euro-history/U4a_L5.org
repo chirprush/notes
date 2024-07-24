@@ -1,0 +1,51 @@
+#+title: Unit 4a Notes: Parliament Limits the English Monarchy
+#+options: toc:nil
+#+latex: \newpage
+* The Big Idea
+  Absolute rulers in England were overthrown, and Parliament gained power.
+* Key Terms and People
+  - Charles I
+  - English Civil War
+  - Oliver Cromwell
+  - Restoration
+  - /habeas corpus/
+  - Glorious Revolution
+  - constitutional monarchy
+  - cabinet
+* Monarchs Defy Parliament
+  Elizabeth the first did not have an heir, leaving James Stuart (James I), her closest family (cousin) and the king of Scotland to become the king of England in 1603. England and Scotland were later united in 1707.
+** James's Problems
+   James faced many problems after becoming king. He struggled with Parliament over many subjects, particularly money. James did not reform the Anglican church of Catholic practices, which was of great disdain to many Puritan members in the Parliment.
+** Charles I Fights Parliament
+   James I died in 1625, leaving the throne to his son, *Charles I*. Charles went on to fight many wars with Spain and France. Charles needed money, but Parliament refused to give it to him. Because of this, Charles tried getting rid of Parliament. Eventually, he had to call Parliament again. Parliament made a deal that Charles would be given money if he signed a document called the Petition of Right. This petition consisted of four major restrictions.
+   - Charles could not imprison people without a basis
+   - Charles could not make taxes without Parliament's permission
+   - Charles could not quarter soldiers in private homes
+   - Charles could not force martial law during peacetime 
+   Even after agreeing to the petition, Charles did not follow it. This was still important, however, because it challenged absolute monarchism. Later in 1629, Charles finally got rid of Parliament and used fees and fines to get his money, drastically decreasing his popularity.
+* English Civil War
+  In 1637, Charles tried to force Scotland to follow the Anglican prayer book instead their Presbyterian one. Charles tried to join England and Scotland into one religion. This caused Scotland to rebel and form an army. Because Charles needed money, he had to call Parliament into session, allowing Parliament to go against Charles.
+** War Topples a King
+   In 1641, Parliament tried to pass laws that would limit the power of Charles. In retaliation, Charles tried to arrest these Parliament leaders; however, it proved unsuccessful. Because of this, a crowd of people in London assembled outside of the palace. This caused Charles to leave London and raise an army of his own in northern England. This fight between sides was called the *English Civil War* and lasted from 1642 to 1649, with the supporters of Charles called Royalists or Cavaliers and the opponents called Roundheads. For a while, it seemed that the war was drawn and at a standstill, but the Puritans soon made a breakthrough. *Oliver Cromwell* and his New Model Army managed to gain the upper hand on the Cavaliers. Eventually, they managed to win the war and capture the king. They then brought the king to trial for treason against Parliament and sentenced him to death. The trial and execution was public, which made an impactful statement towards absolute monarchism.
+** Cromwell's Rule
+   Cromwell was now in control of England. Cromwell got rid of the monarchy and House of Lords in favor of a commonwealth, which was a republic form of government. Because of this, Ireland revolted. In 1649, Cromwell went to Ireland with an army and put down the revolt. The lands and homes of the Irish were given to English soldiers. In the end, the combined fighting, plague, and famine killed hundreds of thousands. In 1653, the old Parliament was fully abolished in favor of a new government called the Protectorate. John Lambert, an associate of Cromwell, drafted the constitution, which was also the first constitution of any European state at the time. Oliver was the head of the state, which was called the Lord Protector. This government brought together England, Wales, Scotland, and Ireland under one single entity. It allowed for equal representation, with each nation having a seat in the new British Parliament. The Protectorate allowed for a large army and navy.
+** Puritan Morality
+   Cromwell and the Puritans wanted to reform society. Laws were passed that promoted Puritan morales and put down sinful activities, such as theatre, sporting events, and dancing. Cromwell was tolerant to all religions other than Catholic, even allowing Jews (which had previously been exiled in 1290) into the country. Cromwell established more schools and reduced the punishment for minor crimes.
+* Restoration and Revolution
+  Oliver Cromwell ruled until 1658. After his death, the government collapsed, resulting in a new Parliament being established. The military rule was put away with and Parliament elected Charles I's eldest son as ruler.
+** Charles II Reigns
+   Charles II entered Britain and was well received. The period of his reign was called the *Restoration* because he restored the monarchy.
+   During his reign Parliament passed /*habeas corpus*/ (Latin for "to have the body") which gave all prisoners the right to have a trial before a judge to specify their charges. This stopped monarchs from baselessly imprisoning subjects. After some time, the debate of who should inherit the throne became a concern of Parliament. The only suitable candidate, Charles's brother, James, was Catholic. One political party, called the Whigs, opposed James. The other side, called Tories, supported James. These sides were descendant of the first political parties of England.
+** James II and the Glorious Revolution
+   Charles II died in 1685, leaving James II to become king. James was openly Catholic and gave high positions to Catholics, which went against the law. Parliament tried to stop James, but he dissolved it. Later, James obtained a male heir. Protestants, worried about a possible continuation of Catholic kings, tried to put a stop to James II's ruling. Mary, a Protestant, wife of William of Orange (a prince of the Netherlands), and James's older daughter, was by Parliament along with William to overthrow James. William then led an army to London in 1688, causing James to flee to France. This overthrowing was called the *Glorious Revolution*.
+* Limits on Monarchs' Power
+  When William and Mary were made monarchs, they consented to recognizing Parliament as an authoritative partner in governing. England was now not an absolute monarchy but instead a *constitutional monarchy*, in which the ruler was limited by the law.
+** Bill of Rights
+   Parliament drafted the English Bill of Rights in 1689 in an effort to limit the royal power. The Bill of Rights made the following points:
+   - The monarch could not suspend the laws of Parliament
+   - The monarch could not impose taxes without permission from Parliament
+   - The monarch could not stop the freedom of speech in Parliament
+   - The monarch could not persecute a citizen who petitioned grievances
+   William and Mary agreed to these limits.
+** Cabinet System Develops
+   Because of the Bill of Rights, British monarchs could not rule without the conset of Parliament. In the same way, however, Parliament could not rule without the permission of the monarch. When the two sides disagreed, the government would come to a deadlock. This problem was solved through the creation of a group called the *cabinet*. The cabinet was a group of government official that acted in the ruler's name but represented the major party of Parliament. This helped them bridge the gap between the monarch and Parliament. As time passed, the cabinet became more established as the central power and policymaker. The head of the cabinet is the leader of the majority party in Parliament and is called the prime minister. This is the current government system of England today.

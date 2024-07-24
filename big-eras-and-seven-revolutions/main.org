@@ -1,0 +1,7 @@
+#+TITLE: Notes: The Big Eras of History
+#+AUTHOR: Rushil Surti
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+LATEX: \newpage
+
+#+INCLUDE: "./eras.org"
+#+INCLUDE: "./revolutions.org"

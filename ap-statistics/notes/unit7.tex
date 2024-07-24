@@ -1,0 +1,61 @@
+\section{Inference for Quantitative Data: Means}
+
+For proportions, we know we can construct a confidence interval as the following
+\[
+    \hat{p} \pm z^* \sigma
+,\]
+but it turns out the corollary for means:
+\[
+    \colorbox{WildStrawberry!30}{\( \displaystyle \overline{x} \pm z^* \cdot \frac{S}{\sqrt{n}} \)}
+\]
+is incorrect, underestimating the actual interval (or at least, that is what
+has been told to me but once again as in the case of the sample standard
+deviation I'd like to have an actual good intuition with rigor for how these
+changes exactly help correct the parameters, but perhaps that's for another
+time).
+
+Instead, we must introduce a new kind of multiplier/table instead of the \( z
+\)-table values, which we call the \( t \)-table values. This means the correct confidence interval for means is
+\[
+    \overline{x} \pm t^* \cdot \frac{S}{\sqrt{n}}
+.\]
+
+When constructing a \( t \)-interval, we must fulfill the same three powerful conditions:
+\begin{enumerate}
+    \item The samples are random.
+    \item The sampling distribution is approximately normal. We can tell this
+        by either knowing that the sample size is greater than at least \( 30
+        \), in which case the central limit theorem helps us know that the
+        distribution is normal, or we can know that the original distribution
+        is roughly normal or symmetric.
+    \item Observations are independent. Either we sample with replacement, or
+        we sample without replacement while upholding the \( 10\% \) rule.
+\end{enumerate}
+
+The \( t \) distribution takes in a parameter \( df \), which stands for
+degrees of freedom. This is usually \( n - 1 \), where \( n \) is the sample
+size. Once again, I'd like a better explanation for these things because that's
+where the fun stats seems to be, but I guess I can read up on it in my own
+time.
+
+The formula for a \( t \)-score is essentially analogous to the \( z \)-score
+formula:
+\[
+    t = \frac{\overline{x} - \mu_0}{S_x / \sqrt{n}}
+.\]
+
+When constructing \( t \)-intervals for the difference of means, most
+everything remains the same, but the critical \( t^* \) value will use the
+minimum of the two sample sizes minus one (this is called conservative degrees
+of freedom). There are calculators that do it the funky stats way which isn't
+explained except for a formula, which is a bit meh but that's just how the
+CollegeBoard\texttrademark\  rolls it seems.
+
+A paired \( t \)-test is a \( t \)-test in which we find the mean difference of
+some populations parameter through two samples, where we can pair across
+samples. To this regard, a paired \( t \)-test is usually something where we
+can have a "before and after" observation or different treatments on the same
+people.
+
+A two-sample \( t \)-test is simply just taking two separate samples with their
+own statistics and then subtracting their distributions.

@@ -1,0 +1,5 @@
+- Khan Academy Statistics
+    - The main thing I'm learning from really
+- Barron AP Stats
+    - Doesn't really follow the AP curriculum but I can use it as review
+- OpenStax Textbook https://openstax.org/details/books/statistics

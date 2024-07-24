@@ -1,0 +1,97 @@
+#+title: Unit 2 Notes: The Renaissance
+#+options: toc:nil
+#+latex: \newpage
+* Lesson 1: Luther Leads the Reformation
+** The Big Idea
+   Martin Luther's protest over abuses in the Catholic Church led to the founding of Protestant churches.
+** Key Terms and People
+   - Martin Luther
+   - indulgence
+   - Reformation
+   - excommunicate
+   - Lutheran
+   - Protestant
+   - Peace of Augsburg
+   - Henry VIII
+   - annul
+   - Elizabeth I
+   - Anglican
+** Causes of Reformation
+*** Overview
+    Due to the Renaissances new secular and individual movements, the Church's authority was challenged. This was further amplified by the greater spread of these secular ideas through the invention of the printing press and an increase in writers, scholars, and translators. These ideas lead to a group of new thinkers forming. The Church also found themselves being challenged by rulers across Europe who sought to gain political power. Germany, for example, was divided into many smaller, divided states, making it much harder for the pope or the emperor to control them all. Northern merchants also did not like paying certain taxes from the Church. All of these causes lead to a movement for religious reform, starting in Germany and then going to the rest of Europe.
+    - Social Causes
+      - Humanism and secularism made people question the Church
+      - The printing press helped to spread ideas, such as ones critical of the Church
+    - Political Causes
+      - Powerful monarchs challenged the Church
+      - Many other leaders challenged the pope's authority
+    - Economic Causes
+      - Many nobles were jealous of the wealth of the Church
+      - Merchants did not like paying taxes to the Church
+    - Religious Causes
+      - Some Church leaders were corrupt
+      - People did not like certain practices (sale of indulgences)
+*** Criticisms of the Catholic Church
+    Critics claimed that the Church's leaders were corrupt. These leaders acted secularly, patronizing artists, spent money on luxuries, and fought wars. One instance of this was Pope Alexander VI, who admitted to having several children. There were also problems with lower levels of the church. Many priests and monks were not well educated and could not read or teach. They also did not follow their vows, such as not marrying, drinking, or gambling.
+*** Early Calls for Reform
+    With the reformation movement, people had higher expectations for priests and church leaders. John Wycliffe of England and Jan Hus of Bohemia from the early 1400s and 1500s humanists Desiderius Erasmus and Thomas More spoke out for a Church reform, arguing that the pope should not be acting worldly. They also said that the Bible was more powerful than the Church's leaders. This led to many Europeans forming their own ideas about the Church's actions.
+** Luther Challenges the Church
+*** Overview
+    *Martin Luther* went against his parent's wishes of being a lawyer to be a monk and a teacher. Starting in 1512 and going until his death, Luther earnestly taught scripture at the University of Wittenberg in Saxony, a German state. Luther's teaching were meant to be only earnest and not to start a religious revolution.
+*** The 95 Theses
+    In 1517, Luther publicly spoke out against the Friar Johann Tetzel for selling *indulgences*. Selling indulgences let a sinner get out of a penalty given by a priest. Although indulgences were not supposed to affect God's decision, Tetzel made it seem like you could buy indulgences to get to heaven. Because of this, Luther wrote 95 theses, or statements, in criticism of these actions. On October 31, 1517 he posted these 95 theses at the Wittenburg castle church, inviting others to debate with him. After someone copied these theses, Luther and his ideas become popular all over Germany. This lead to the *Reformation*, during which arose churches that did not accept the authority of the pope.
+*** Luther's Teachings
+    Luther went even farther than criticizing the sale of indulgences. Luther spoke out for a reform of the Church. His three main ideas for this were the following:
+    - People could only get salvation by faith in God. The Church taught that faith and good deeds was needed for salvation.
+    - All Church teachings would be directly based on the Bible. The pope and other Church traditions were false.
+    - All people of faith were equal. Priests were not needed to interpret the Bible for people.
+** The Response to Luther
+*** Overview
+    Luther's ideas spread and attracted many people who had been previously unhappy with the Church for political and economic reasons
+*** The Pope's Threat
+    At first, the Church officials didn't pay much mind to Luther, thinking him only to be a single rebellious monk. After his ideas spread and gained popularity, however, the pope started to treat Luther as a bigger threat. Luther even went as far as saying that the pope should be driven out with force. In the year 1520, Pope Leo X threatened to *excommunicate* Luther if he did not take back what he said. In response, Luther refused and his students burned the decree. Because of this, Leo excommunicated Luther.
+*** The Emperor's Opposition
+    Luther also faced opposition from Holy Roman Emperor Charles V. In 1521, Charles summoned Luther to the town of Worms for trial. After being asked once again to take back his statements, Luther refused and gave the following speech, /"I am bound by the Scriptures I have quoted and my conscience is captive to the Word of God. I cannot and I will not retract anything, since it is neither safe nor right to go against conscience. I cannot do otherwise, here I stand, may Gold help me. Amen."/ A month after this speech, Charles issued the Edict of Worms, which declared Luther to be an outlaw and a heretic. The edict said that no one should give Luther food or shelter and his teachings were to be burned. In spite of this, Prince Frederick (the Wise of Saxony) took care of Luther in one of his castles for around a year. During this time, Luther translated the New Testament into German. In 1522, Luther returned to his home town and found that some of his ideas were already being put into practice, now under the new religious group of *Lutherans*. Lutheranism was supported by many northen German princes, either because of their actual belief or their desire to gain property and independence from Charles V. In 1529, German princes on the side of the pope allied with each other to go against Luther's teachings. The princes who were on Luther's side signed a protest against the alliance. These princes were called *Protestants*. Later, the term would be expanded to all Christians that were not Roman Catholic or Eastern Orthodox. After becoming fed up with the Protestant princes, Charles went to war. In 1547, Charles ended up defeating them, but could not bring them back to being Catholic. In 1555, Charles gave up and gathered all of the German princes of both sides in Augsburg. All of the princes signed a settlement called the *Peace of Augsburg* which allowed the ruler to decide the religion of their state.
+** Protestantism
+   Protestantism started with three major, differing branches: Lutheranism, Calvinism, and Anglicanism.
+** England Becomes Protestant
+*** Overview
+    In England, the Catholic Church also faced resistance. This time, however, it was politically and personally motivated.
+*** Henry VIII Wants a Son
+    In 1509, *Henry VIII*, a devout Catholic became the king of England. In 1521, Henry attacked Luther's ideas. This led to the pope giving him the title of "Defender of Faith." Henry had his own problems, however. Henry needed a male heir. Henry and his wife, Catherine of Aragon, had a daughter named Mary, but a female ruler had not been achieved yet in England. In 1527, when Henry did not believe that Catherine could have more children, Henry decided he needed to divorce her and marry someone younger. This was a problem, however, because the Church did not allow divorce with the exception of the pope who could *annul* the marriage if it could be proved to be illegal. So, Henry asked the pope to annul his marriage. The pope refused, afraid of Catherine's nephew, Charles V.
+*** The Reformation Parliament
+    Henry decided to try solve the marriage himself. In 1529, Henry used Parliament to end the pope's power over England. Henry then married Anne Boleyn in secret in 1533. After this, Parliament legalized Henry's divorce from Catherine. In 1534, Parliament approved the Act of Supremacy. This made people take an oath to recognize the divorce and accept Henry as the head of England's Church. This act was controversial, however. Thomas More, although critical of the Church, stayed Catholic. After More refused, Henry imprisoned him in the Tower of London and later executed him.
+*** Consequences of Henry's Changes
+    Henry did not get the male heir he wanted with Anne Boleyn. They instead birthed a daughter named Elizabeth. Henry charged Anne with treason and she met the same fate as Thomas More, dying in 1536. Henry then had another wife named Jane Seymour. In 1537, they finally had a boy named Edward. Jane died two weeks later, however, causing Henry to marry three more times, resulting in no children. Henry then died in 1547, leaving his three children to rule England, causing religious trouble. Edward became king at nine years old and lead the country with advisers. These advisers were Protestants and introduced Protestantism to churches. After six years of reign, Edward stepped down, which left Mary to take the throne in 1553. Mary was a Catholic and used force and exeucution to return the country back to the pope's rule. After Mary died in 1558, Elizabeth was left to rule the country.
+*** Elizabeth Restores Protestantism
+    Elizabeth desired to return the kingdom to Protestantism. In 1559, Parliament established the only legal church, the Church of England (*Anglican* Church), and had Elizabeth rule it. Elizabeth tried to remain moderate to both sides, establishing a state church that allowed all Christians. Elizabeth also gave certain benefits to either branch. Protestant priests were allowed to marry and speak sermons in English. Catholics were allowed to keep some trappings such as rich robes and church services were more reasonable.
+*** Elizabeth Faces Other Challenges
+    This approach led to some religious equality in England, but the conflict was not completely resolved. Elizabeth faced pressure from Protestants to reform more. She also faced pressure from Catholics who tried to replace her with Mary, the Queen of Scots. In addition, she recieved threats from Philip II, the king of Spain. Along with political pressure, Elizabeth faced financial problems. Although England had a plan to build an American empire for new income, the money went to England and not the queen. This need of money would affect the following monarch and raise tensions with Parliament.
+* Lesson 2: The Reformation Continues
+** The Big Idea
+   Protestant reformers were divided over beliefs, and split into several new Protestant groups.
+** Key Terms and People
+   - Huldrych Zwingli
+   - John Calvin
+   - predestination
+   - Calvinism
+   - theocracy
+   - John Knox
+   - Presbyterian
+   - Anabaptist
+** Calvin Continues the Reformation
+*** Overview
+    A Catholic preist in Zurich by the name of Huldrych Zwingli began religious reform in Switzerland. Zwingli was influenced by both Erasmus and Luther. Just like Luther, Zwingli publicly criticized abuses in the Catholic Church. Zwingli wanted a more personal faith and wanted believers to have more control over the Church. Zwingli's ideas reached and were implemented in Zurich and other cities. In 1531, a war between Protestants and Catholics broke out and Zwingli was killed. At the same time, *John Calvin* began to become interested in the Church.
+*** Calvin Formalizes Protestant Ideas
+    In 1536, Calvin published a book called /Institutes of the Christian Religion/. The book was a summary of Protestant religious beliefs, God, and salvation. Calvin wrote that, by nature, people are sinful. Calvin said that that God selects a few people to save, called the "elect." Calvin wrote that God knows who will be saved. This idea was called *predestination*. These teachings formed the basis for *Calvinism*.
+*** Calvin Leads the Reformation in Switzerland
+    Calvin's ideal government was a *theocracy*, or a government controlled by religious leaders. In 1541, Geneva asked Calvin to lead their city. Before Calvin's rule, Geneva was a self-governing city of 20,000 people. When Calvin started, he enforced strict rules. Bright clothing or entertainment such as card games were outlawed. Opposing these laws would be met with imprisonment, excommunication, or banishment. Preaching different doctrines would result in you being executed. Despite this strict and cold rule, many Protestants thought that Geneva was a model city.
+*** Calvinism Spreads
+    Scottish preacher *John Knox* was in admiration of Geneva and visited the city. Later he returned to Scotland and put Calvin's ideas into practice. In Knox's system, each community church was governed by a group of laymen called elders or presbyters. This religious group became known as the Presbyterians. Later, nobles in Scotland made Calvinism the official religion. They then replaced the Catholic Mary with her son, James. Swiss, Dutch, and French reformers also adopted forms of Calvinism. Many modern day Prostestant churches are derived from Calvinism with less strict ruling.
+** Other Protestant Reformers
+*** Overview
+    Protestants believed that the Bible was the source of all religious truth. With new Christians interpreting their own meaning of the Bible, new Protestant groups formed with different beliefs.
+*** The Anabaptists
+    One new group, called the *Anabaptists*, only baptized people who were old enough to understand and believe in Christianity. They believed that baptized children should be rebaptized as adults. The Anabaptists also believed that the church and state should be separate and did not believe in fighting wars. In addition, they shared their possessions. Because Anabaptists were viewed as too radical and a threat to society, they faced harassment from both Catholics and Protestants. Some tried to escape from this and fled to Munster, Westphalia, Germany. Some notable people who fled were Jan Mathijs and John of Leiden who persecuted non-Anabaptists at their destination. The city was later surrounded by Catholics and Prostestants and captured in 1535. Despite this, the Anabaptists survived and became the predecessors to the Mennonites and the Amish. Descendants of these people settled in Pennsylvania and their teachings later influenced the Quakers and Baptists, which were branches from the Anglican Church.
+*** Women's Role in the Reformation
+    Women played a major role in the Reformation, especially at the start. One example of this could be the sister of King Frances I, Marguerite of Navarre, who protected John Calvin from execution. Nobles and wives of reformers also influenced the Reformation. Katherina Zell, the wife of Matthew Zell, scolded a minister for criticizing a reformer. The minister scolded her back, to which she sharply retaliated with the following quote: /"Do you call this disturbing the peace that instead of spending my time in frivolous amusements I have visited the plague-infested and carried out the dead? I have visited those in prison and under sentence of death. Often for three ddays and three nights I have neither eaten nor slept. I have never mounted the pulplit, but I have done more than any minister in visiting those in misery."/ Another prominent women was Katherina von Bora who greatly supported Martin Luther. After being inspired by Luther's teachings, she left and married Luther and had six children. She managed finances, fed guests, and supported Luther. For the most part she respected Luther, but she argued with him about women's rights and gender equality. With time, Protestant religions and organizations became more formal. Male religious leaders supressed and limited women's activities and rights.

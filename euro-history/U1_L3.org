@@ -1,0 +1,79 @@
+#+title: Module 5, Lesson 3: Changes in Medieval Society
+#+options: toc:nil
+#+latex: \newpage
+* Big Idea
+  The feudal system declined as agriculture, trade, finance, towns, and universities developed.
+* Key Terms/People
+  - three-field system
+  - guild
+  - Commercial Revolution
+  - burgher
+  - vernacular
+  - Thomas Aquinas
+  - scholastics
+* Summary
+** A Growing Food Supply
+   In the 800 to 1200s, there was a warmer climate, resulting in improved farm production. This allowed for an increased food supply and then, in turn the expansion of civilization. During this time, farmers had access to land that was previously unsuitable and developed new methods of farming to take advantage of this.
+*** Switch to Horsepower
+    Originally, peasants used oxen to pull plows because they were easy to keep. Despite needing more care and better food, horses proved to almost three times as effective. Sometime before 900, farmers developed a harness for horses that allowed it to pull plows. This led to horses slowly replacing oxen for plowing and pulling wagons. This also led to an increase in the clearing of forests.
+*** The Three-Field System
+    Around the year 800, villages started to group their land into three fields instead of the usual two (*three-field system*). The system worked with two fields being planted and the other let rest for a full year. This increased the amount of land that the farmers could grow crops on, increasing food production. Increased food production led to well-fed and healther people, especially children. As a result, children could fend of disease and had a longer lifespan, which led to the growth of the population of Europe.
+** The Guilds
+   A *guild* is an group of people in the same field or occupation that is aimed to help improve the economic and social conditions of the members. The first instances of these guilds were merchant guilds. In merchant guilds, merchants worked together to regulate the quantity and quality of goods being traded in order keep the prices up. In addition, they promised secure trading and reduced losses. Professions such as artisans, wheelwrights, glassmakers, winemakers, tailors, and druggists started craft guilds. In most of these craft guilds, both the husband and wife worked. In some crafts, however, such as cloth making, women were the main workers. The craft guilds standardized quality of work, wages, and working conditions. One example of this could be bakers, who were required to sell loaves at a standard volume and weight. Guilds also trained new workers. As soon as the 1000s, craftspeople were making goods that were sold locally and at long-distance. This resulted in products being available in small towns, big cities, and even trade fairs. This led to guilds becoming a powerful force in the medieval economy. Their wealth and influence let them even have influence over the government and economy of towns and cities.
+*** Surnames
+    Some last names, or surnames, can be traced back to medieval occupations in Europe. A few examples could be Smith, referring to someone who works with metal. Silversmith would be the surname of someone who worked with silver. In places that spoke German, a smith was called Schmidt. A few more examples are as follows: Carpenter -> (French) Charpentier -> (German) Zimmerman, Baker -> (French) Boulanger -> (Germany) Becker.
+*** Craft Guilds Infographic
+**** Guild Services
+     - To members...
+       - Set standards of working conditions
+       - Offered a primitive form of health insurance
+       - Provided funeral expenses
+       - Provided dowries for the poor
+     - To the community...
+       - Built almshouses for victims of misfourtune
+       - Guaranteed quality products and work
+       - Alternated shifts for policing the streets
+       - Donated windows to the Church
+**** Hierarchy
+     - Apprentice
+       - Parents paid for training
+       - Lived with the master and family
+       - Obeyed the master
+       - Trained for 2 to 7 years
+       - Disallowed from marrying while in training
+       - After finished training, became a journeyman
+     - Journeyman (Day Worker)
+       - Worked for master to earn a salary
+       - Worked 6 out of 7 days a week
+       - Had to create a masterpiece to become a master
+       - Had to be deemed worthy by the guild to become a master
+     - Master
+       - Owned a shop
+       - Worked with others to protect their trade
+       - Sometimes served in government
+** Commercial Revolution
+   The increased accessibility of trade goods and innovative ways of doing business drastically changed life in Europe. The expansion of trade and business during this era is called the *Commercial Revolution*.
+*** Fairs and Trade
+    The majority of trade took place in towns. Peasants living in manors near town traveled on fair days, carrying items to trade. Great fairs occurred a few times a year, most of the time during religious festivals when the most people would be in town. In these fairs, people visited stalls from merchants from all over Europe. Of all the trade items, cloth was most common. Other commodities included bacon, salt, honey, cheese, wine, leather, dyes, knives, and ropes. These goods met all of the basic essentials for life for a community. This broke the usual chain of feudalism, in which everything was produced on a manor. This increase in business in trade also led to foreign products being much more readily available. Trade routes were opened all across Europe, from Flanders to Italy. Merchants traveled to ports in Constantinople, Muslim ports near the North African coast, and routes to Asia (which were opened partly by the Crusades). The increase in business at markets and fairs led to merchants being willing to take chances on buying products that they could resell for a profit.
+*** Business and Banking
+    With trades going to many fairs across Europe, they needed large quantities of money and a way to use many different kinds of currencies. Merchants found a few ways to solve these problems. Firstly, bills of exchange set exchange rates between different currencies. Secondly, *letters of credit* solved the problem of needing to carry large amounts of money, making trade much more convenient. Trading firms and associations were established to offer these services. Merchants looked for new ways and opportunities to make a profit. Merchants looked to purchased goods from distant places, and to do this they needed to borrow money. At first, the Church forbade lending money at interest (a sin which was called usury), but they eventually loosened their enforcement of it and banking was established. Banking became very important, especially in Italy.
+*** Society Changes
+    The Commercial Revolution changed Europe very slowly, but also very massively. Trade in particular changed many parts of society, such as what people did to make a living and where people lived. As towns attracted workers, they grew into cities, which had drastically different living conditions compared to villages or manors.
+** Urban Life Flourishes
+   Between the years 1000 and 1150, it's estimated that the population of Europe skyrocketed from 30 million to 42 million. Although nowhere near as sophisticated or as large as great cities like Constantinople, towns prospered. Most normal towns contained 1500 to 2500 residents. Paris, a big city, had almost 60000 people, however.
+*** Trade and Towns Grow Together
+    Trade was essential to the prosperity of new towns, which is why many were found near ports, crossroads, hilltops, and near. Town life wasn't always nice, though. Streets were small and sewers were not available. This caused most people to discard of their waste in the streets. In addition, people did not take baths and there was very little fresh air, light, and clean water. Houses were also very flammable. In spite of this, people still came to live in them, mainly because of how tired they were with the feudal system. Although peasants and serfs were legally obligated to stay on their lord's manor, some did run away to towns. A custom was developed where a serf would be free from a lord by living in a town for a year and a day.
+*** Merchant Class Shifts the Social Order
+    Merchants and craftspeople were not considred nobles, clergy, or peasants (the main social order classes). Initially, towns were ruled by the feudal lords who took fees, taxes, and rent. This eventually earned the disdain of the *burghers*, or the merchant-class citizens living in the town. They banded together and demanded rights, such as freedom from certain tolls and the ability to control the town's government. In some cases they resorted to war and violence to win the authority.
+** The Revival of Learning
+   The Crusades greatly opened contact between Europe and the Muslims and Byzantines. This caused a new growth in learning, especially of works from great Greek philosophers. Muslim and Byzantine libraries added copies of these to their collections, but most were lost after the fall of Rome and western European invasions.
+*** The Muslim Connection
+    Around the 1100s, European scholars visited Muslim libraries in Spain. There, Latin translations of works from great Greek writers such as Aristotle were found, vastly expanding the knowledge of Europe in all areas, like science, philosophy, law, or mathematicas. The Crusaders also brought back knowledge of Muslim technology, such as ships, navigation systems, and weapons.
+*** Scholars and the University
+    One of the most important figures in the growth of learning was the university. Originally, the word "university" meant a group of scholars in a meeting. Universities were marked by people, not buildings. Universities were found in Pairs and Bologna, Italy, and later Oxford and Salerno, Italy. The demographic of the students were majorly sons of merchants or artisans. The main goal of these students was to achieve a job in the government or the Church. Earning a bachelor's degree for theology took quite a while, five to seven years, in fact, whereas becoming a master took at minimum twelve years.
+    Although most scholars and writers used Latin, some renowned poets used their native, everyday language, or *vernacular*. There are quite a few examples of masterpieces that are still being read nowadays, such as Dante Alighieri's /The Divine Comedy/ (1308 - 1314, Italian), Geoffrey Chaucer's /The Canterbury Tales/ (1386 - 1400, English), and Christine de Pisan's /The Book of The City of Ladies/ (1405, French). Works written in the vernacular made literature much more widespread and inviting.
+*** Muslim Scholars Info
+    Quite a few Islamic scholars greatly influenced Europe. One such of these was Ibn Sina (also knowed as Avicenna), who was a Persian philosopher, astronomer, poet, and physician. One book of his, /The Cure/, was one work that greatly affected the West.
+*** Aquinas and Medieval Philosophy
+    Christian scholars were quite curious and excited by the works and ideas of Greek philosophers. One very relevant topic of discussion for them was whether a following a logical approach such as Aristotle's would still keep faith with the Bible. A man by the name of Thomas Aquinas argued in the 1200s that it /was/ possible with his /Summa Theologicae/ (1267 - 1273).
+    Aquinas and scholars like him that were found at great universities were called *scholastics*, or schoolmen. These scholastics debated modern issues of the time using the knowledge of Aristotle. The way they taught law and government greatly effected western Europeans, such as the English and French. They also adopted some democratic ideas and institutions.
