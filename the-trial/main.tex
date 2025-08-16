@@ -1,0 +1,129 @@
+\documentclass[a4paper, 12pt, twoside]{article}
+
+\PassOptionsToPackage{colorlinks=false, hidelinks}{hyperref}
+\usepackage{chirpstyle}
+\usepackage{soul}
+
+\usepackage[compact]{titlesec}
+
+\setlength{\parskip}{6pt}
+\renewcommand{\familydefault}{\sfdefault}
+
+\usepackage[autostyle, english = american]{csquotes}
+\MakeOuterQuote{"}
+
+% \geometry{top=3cm, rmargin=7cm, lmargin=1cm}
+\geometry{top=3cm, outer=7cm, inner=1cm}
+\raggedbottom
+
+\newcounter{notecounter}
+\addtocounter{notecounter}{1}
+
+\colorlet{ChirpBlue}{Cerulean!40}
+\colorlet{ChirpGreen}{ForestGreen!40}
+\colorlet{ChirpYellow}{Goldenrod!40}
+
+\newcommand{\hlc}[2]{{\sethlcolor{#1}\hl{#2}}}
+\newcommand{\MarginNote}[3]{\hlc{#3}{#1}\textsuperscript{\textbf{ \arabic{notecounter}.}} \marginpar{\footnotesize \( \textcolor{#3}{\blacksquare} \) \color{black} \textbf{\arabic{notecounter}.} #2}\addtocounter{notecounter}{1}}
+\newcommand{\Comment}[2]{\MarginNote{#1}{#2}{ChirpBlue}}
+\newcommand{\Question}[2]{\MarginNote{#1}{#2}{ChirpGreen}}
+\newcommand{\Note}[2]{\MarginNote{#1}{#2}{ChirpYellow}}
+
+\titlespacing{\section}{0pt}{10pt}{12pt}
+
+\setlength{\marginparwidth}{6cm}
+
+\begin{document}
+
+\section*{\LARGE The Trial \normalsize by Franz Kafka}
+\vspace{-1cm}\rule{\textwidth}{0.8pt}
+
+\subsection*{Pre-Reading}
+
+\input{contents/prereading.tex}
+
+\newpage
+
+\subsection*{Introduction}
+
+\input{contents/introduction.tex}
+
+\newpage
+
+\subsection*{Chapter I}
+
+\input{contents/chapter1.tex}
+
+\newpage
+
+\subsection*{Chapter II}
+
+\input{contents/chapter2.tex}
+
+\newpage
+
+\subsection*{Chapter III}
+
+\input{contents/chapter3.tex}
+
+\newpage
+
+\subsection*{Chapter IV}
+
+\input{contents/chapter4.tex}
+
+\newpage
+
+\subsection*{Chapter V}
+
+\input{contents/chapter5.tex}
+
+\newpage
+
+\subsection*{Chapter VI}
+
+\input{contents/chapter6.tex}
+
+\newpage
+
+\subsection*{Chapter VII}
+
+\input{contents/chapter7.tex}
+
+\newpage
+
+\subsection*{Chapter VIII}
+
+\input{contents/chapter8.tex}
+
+\newpage
+
+\subsection*{Chapter IX}
+
+\input{contents/chapter9.tex}
+
+\newpage
+
+\subsection*{Chapter X}
+
+\input{contents/chapter10.tex}
+
+\newpage
+
+\subsection*{Appendix I}
+
+\input{contents/appendix1.tex}
+
+\newpage
+
+\subsection*{Appendix II}
+
+\input{contents/appendix2.tex}
+
+\newpage
+
+\subsection*{Post-Reading}
+
+\input{contents/postreading.tex}
+
+\end{document}
